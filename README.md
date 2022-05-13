@@ -1,6 +1,6 @@
-# jekyll-theme-vng-realisatie
+# jekyll-theme-imvertor
 
-Dit theme wordt gebruikt voor het deployen van de documentatie in de Haal Centraal repositories naar GitHub Pages.
+Dit theme wordt gebruikt voor het deployen van de documentatie in de repositories die organisaties zoals Kadaster, Geonovum, VNG-Realisatie, Kennisnet, Informatiehuis Water, etc... gebruiken om Imvertor documentatie beschikbaar te stellen.
 
 ## Generatie logica
 
